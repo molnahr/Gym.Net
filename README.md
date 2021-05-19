@@ -1,4 +1,4 @@
-#Fitness termek bérletrendszere
+## Fitness termek bérletrendszere
 
 Adott egy Fitness terem részleges adatbázisának a relációi.
 BerletTipusok(berlet_id, megnevezes, ar, hanynapigervenyes, hanybelepesreervenyes, torolve, terem_id, Hanyoratol,
